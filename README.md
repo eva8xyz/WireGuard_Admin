@@ -1,5 +1,7 @@
 # WireGuard Unified Management Portal Console
 
+> 🌐 **日本語のREADMEをお探しですか?** [README_JP.md](./README_JP.md) に日本語ガイドが記載されております。
+
 This system is a production-grade management portal with full bilingual support, allowing you to monitor and control a live WireGuard (WG) server in real time, batch-provision connecting peers, and dynamically auto-generate client `.conf` configurations.
 
 ## Install
