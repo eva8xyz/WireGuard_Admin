@@ -2,6 +2,12 @@
 
 This system is a production-grade management portal with full bilingual support, allowing you to monitor and control a live WireGuard (WG) server in real time, batch-provision connecting peers, and dynamically auto-generate client `.conf` configurations.
 
+## Install
+This project only supports Windows.
+Please download the application from the [Releases](../../releases) page.
+
+---
+
 ## ✨ Features
 1. **Live Real-Time Synchronization**:
    - Parses the `wg show dump` command on the server every 2 seconds to automatically update the transmission traffic (Rx/Tx), current transfer rate, and latest handshake timestamp for each terminal in real time.
